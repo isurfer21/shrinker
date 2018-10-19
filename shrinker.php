@@ -160,7 +160,7 @@ Examples:
     shrinker js test.js
     shrinker js itest.js otest.js
 
-Note:
+Notes:
     Options & Flags can't be used together in a statement
     Order of command-line arguments should be maintained
 

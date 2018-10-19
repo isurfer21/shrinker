@@ -1,8 +1,7 @@
 # Shrinker - The code minifier
-Code minifier for php, css, javascript
+> Code minifier for php, css, javascript
 
-Copyright 2018 Abhishek Kumar.
-Licensed under the Apache License, Version 2.0 (the "License").
+*Copyright 2018 [Abhishek Kumar](https://github.com/isurfer21). Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0) (the "License").*
 
 ## Intro
 Although there are lot many tools out there to minify the codes of php, css or js; but this one seems to be simple and working without any clutter.
@@ -66,8 +65,12 @@ Examples:
     shrinker js test.js
     shrinker js itest.js otest.js
 
-Note:
-    Options & Flags can't be used together in a statement
-    Order of command-line arguments should be maintained
+Notes:
+    Options & Flags can't be used together in a statement.
+    Order of command-line arguments should be maintained.
 
 ```
+
+### References
+ - [Adminer](https://github.com/vrana/adminer)
+ - [YAKPro-PO](https://github.com/pk-fr/yakpro-po)
